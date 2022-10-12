@@ -982,8 +982,7 @@ textarea.RegForm__input {
 /* RegForm inputs - error start*/
 
 .error {
-    border-color: red;
-    border-width: 0.1rem;
+    border: 0.1rem solid red;
 }
 
 /* RegForm inputs - error end*/
